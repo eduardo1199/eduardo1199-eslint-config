@@ -2,6 +2,7 @@
   "name": "@eduardo1199/eslint-config",
   "description": "eslint config",
   "main": "index.js",
+  "version": "1.0.0",
   "private": false,
   "license": "MIT",
   "dependencies": {
